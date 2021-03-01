@@ -7,7 +7,7 @@ description = 'The package is a text labeling function.',
 url = 'git+ssh://git@github.com/Nyaribari/biospaCy#egg=labels',
 author='Nyarbari Reuben',
 author_email='anyaribari@gmail.com',
-licence='unlicense',
+license='unlicense',
 packages=['biospacy'],
 install_requires=['spacy','pandas'],
 zip_safe= False
