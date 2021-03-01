@@ -1,6 +1,6 @@
 # biospaCy
 
-A Python Natural Language Processing package for biological data. Build on spaCy.
+A Python Natural Language Processing package for biological data. Built on spaCy.
 
 Install package with:  **pip install git+ssh://git@github.com/Nyaribari/biospaCy.git**
 
