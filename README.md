@@ -10,7 +10,7 @@ The working.
 
 To produce text labels from a data set use:
 
-**biospacy.text_labels('path/to/your/dataset.csv','model_to_use','name_of_your_choice_for_the_dataset_output')**
+**biospacy.text_labels ('path/to/your/dataset.csv', 'model_to_use', 'name_of_your_choice_for_the_dataset_output')**
 
 To get information about the package:
 
