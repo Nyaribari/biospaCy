@@ -2,7 +2,7 @@
 
 A Python Natural Language Processing package for biological data. Built on spaCy.
 
-Install package with:  **pip install git+ssh://git@github.com/Nyaribari/biospaCy.git**
+Install package with:  **pip3 install git+https://git@github.com/Nyaribari/biospaCy**
 
 The working.
 
