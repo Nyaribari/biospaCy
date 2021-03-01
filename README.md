@@ -16,7 +16,7 @@ To get information about the package:
 
 **biospacy.info()**
 
-To check Versio:
+To check Version:
 
 **biospacy.version()**
 
