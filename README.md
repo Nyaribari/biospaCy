@@ -1,6 +1,8 @@
 # biospaCy
 
-A Python Natural Language Processing package for biological data. Built on spaCy.
+A Python Natural Language Processing package for labeling Entities in data. 
+
+Built on spaCy.
 
 Install package with:  
 

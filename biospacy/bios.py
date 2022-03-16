@@ -25,12 +25,12 @@ def text_labels(path,model,your_output_name):
 
 def info():
   print(
-    'Biospacy is a package for biological data. The package is built on spaCy. The package version is 0.0.2.\
+    'Biospacy is a package for labeling entities in data. The package is built on spaCy. The package version is 0.0.3.\
           Load package with: \
             import biospacy, biospacy.text_labels(), biospacy.info(), biospacy.version()'
   )
 
 def version():
   print(
-    'Version 0.0.2'
+    'Version 0.0.3'
   )
