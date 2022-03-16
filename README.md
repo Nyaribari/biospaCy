@@ -6,19 +6,19 @@ Install package with:  **pip3 install git+https://git@github.com/Nyaribari/biosp
 
 The working.
 
-**import biospacy**
+        import biospacy
 
 To produce text labels from a data set use:
 
-**biospacy.text_labels ('path/to/your/dataset.csv', 'model_to_use', 'name_of_your_choice_for_the_dataset_output')**
+        biospacy.text_labels ('path/to/your/dataset.csv', 'model_to_use','name_of_your_choice_for_the_dataset_output')
 
 To get information about the package:
 
-**biospacy.info()**
+       biospacy.info()
 
 To check Version:
 
-**biospacy.version()**
+        biospacy.version()
 
 
 This package is under active development and will be available in Pypi in a few months.
