@@ -4,7 +4,7 @@ A Python Natural Language Processing package for biological data. Built on spaCy
 
 Install package with:  
 
-        pip3 install git+https://git@github.com/Nyaribari/biospaCy
+        pip3 install git+https://git@github.com/foscraft/biospaCy
 
 The working.
 
